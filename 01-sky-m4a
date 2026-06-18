@@ -37,7 +37,7 @@
 <h1>Sky</h1>
 
 <audio controls preload="metadata">
-    <source src="01-sky.m4a" type="audio/mp4">
+    <source src="01-sky-m4a" type="audio/mp4">
     Your browser does not support audio playback.
 </audio>
 ```
